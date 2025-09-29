@@ -13,7 +13,7 @@ It allows filtering and comparison by:
 - **Geographical Distribution**
 - **Age Group**
 
-🔎 **Purpose:** To provide policymakers, educators, and researchers with a clear view of demographic patterns and disparities across Malaysia.
+🔎 **Purpose:** To provide policymakers, educators, and researchers with a clear view of demographic patterns across Malaysia.
 
 ---
 
